@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/better-resume/static/css/main.264f26fe.chunk.css",
-    "main.js": "/better-resume/static/js/main.5d96ec1d.chunk.js",
-    "main.js.map": "/better-resume/static/js/main.5d96ec1d.chunk.js.map",
-    "runtime-main.js": "/better-resume/static/js/runtime-main.f66593c3.js",
-    "runtime-main.js.map": "/better-resume/static/js/runtime-main.f66593c3.js.map",
-    "static/js/2.a1d853aa.chunk.js": "/better-resume/static/js/2.a1d853aa.chunk.js",
-    "static/js/2.a1d853aa.chunk.js.map": "/better-resume/static/js/2.a1d853aa.chunk.js.map",
-    "index.html": "/better-resume/index.html",
-    "precache-manifest.3dc31be5de91a50a7cc585aa285449fe.js": "/better-resume/precache-manifest.3dc31be5de91a50a7cc585aa285449fe.js",
-    "service-worker.js": "/better-resume/service-worker.js",
-    "static/css/main.264f26fe.chunk.css.map": "/better-resume/static/css/main.264f26fe.chunk.css.map",
-    "static/js/2.a1d853aa.chunk.js.LICENSE.txt": "/better-resume/static/js/2.a1d853aa.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/better-resume/static/media/Backround-lightBlue.2c32aaac.png"
+    "main.css": "/static/css/main.df62594a.chunk.css",
+    "main.js": "/static/js/main.c0c32460.chunk.js",
+    "main.js.map": "/static/js/main.c0c32460.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a6ecbcd1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a6ecbcd1.js.map",
+    "static/js/2.a1d853aa.chunk.js": "/static/js/2.a1d853aa.chunk.js",
+    "static/js/2.a1d853aa.chunk.js.map": "/static/js/2.a1d853aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a7e8543991d21bd42bcb60debb541739.js": "/precache-manifest.a7e8543991d21bd42bcb60debb541739.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.df62594a.chunk.css.map": "/static/css/main.df62594a.chunk.css.map",
+    "static/js/2.a1d853aa.chunk.js.LICENSE.txt": "/static/js/2.a1d853aa.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/Backround-lightBlue.2c32aaac.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f66593c3.js",
+    "static/js/runtime-main.a6ecbcd1.js",
     "static/js/2.a1d853aa.chunk.js",
-    "static/css/main.264f26fe.chunk.css",
-    "static/js/main.5d96ec1d.chunk.js"
+    "static/css/main.df62594a.chunk.css",
+    "static/js/main.c0c32460.chunk.js"
   ]
 }
